@@ -51,9 +51,11 @@ http://blog.csdn.net/lmj623565791/article/details/39121377
 Android 快速开发系列 ORMLite 框架最佳实践<br>
 http://blog.csdn.net/lmj623565791/article/details/39122981
 
+##RecyclerView下拉刷新上拉加载
+https://github.com/Malinskiy/SuperRecyclerView
 
-
-
+##RecyclerView多条目绘制
+https://github.com/drakeet/MultiType
 
 
 
