@@ -59,4 +59,19 @@ RecyclerView多条目布局<br>
 https://github.com/drakeet/MultiType
 
 
+##VLayout<br>
+Android开源库V - Layout：淘宝、天猫都在用的UI框架，赶紧用起来吧！<br>
+http://www.jianshu.com/p/6b658c8802d1
 
+##NestedScrolling<br>
+NestedScrolling机制(一)——概述<br>
+http://blog.csdn.net/al4fun/article/details/53888990
+
+NestedScrolling机制(二)——实例<br>
+http://blog.csdn.net/al4fun/article/details/53889075
+
+NestedScrolling机制(三)——机制本质以及源码解析<br>
+http://blog.csdn.net/al4fun/article/details/53889101
+
+NestedScrolling机制(四)——最后一个例子<br>
+http://blog.csdn.net/al4fun/article/details/53889144
