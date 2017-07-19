@@ -55,7 +55,7 @@ http://blog.csdn.net/lmj623565791/article/details/39122981
 RecyclerView下拉刷新上拉加载<br>
 https://github.com/Malinskiy/SuperRecyclerView
 
-RecyclerView多条目绘制<br>
+RecyclerView多条目布局<br>
 https://github.com/drakeet/MultiType
 
 
